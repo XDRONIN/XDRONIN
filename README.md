@@ -1,6 +1,6 @@
 -  Hi, I’m Akash
--  I’m interested in Web Development
--  I’m currently learning MERN stack
+-  I’m a Web Dev
+-  currently learning MERN stack
 - 📫 How to reach me >> akashprakashmattathil@gmail.com
 
 
