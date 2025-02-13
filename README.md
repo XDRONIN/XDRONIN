@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am Currently studying BCA, An aspiring full stack developer and always looking for new opportunities and experiences
+BCA Student
+Full Stack Dev
+Looking for fresh opportunities and experiences  
 
 
 ## 🌐 Socials:
