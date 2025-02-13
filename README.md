@@ -1,7 +1,7 @@
 # 💫 About Me:
-BCA Student
-Full Stack Dev
-Looking for fresh opportunities and experiences  
+BCA Student<br />
+Full Stack Dev <br />
+Looking for fresh opportunities and experiences  <br />
 
 
 ## 🌐 Socials:
