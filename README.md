@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 BCA Student<br />
 Full Stack Dev <br />
 Looking for fresh opportunities and experiences  <br />
