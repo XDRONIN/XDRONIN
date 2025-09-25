@@ -1,5 +1,5 @@
 # About Me:
-BCA Student<br />
+BCA Grad<br />
 Full Stack Dev <br />
 Looking for fresh opportunities and experiences  <br />
 
